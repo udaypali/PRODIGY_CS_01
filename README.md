@@ -28,29 +28,6 @@ git clone https://github.com/yourusername/caesar-cipher-tool.git
 cd caesar-cipher-tool
 ```
 
-## Usage 
-```bash 
-Set up a Virtual Environment
-Create a virtual environment to manage dependencies:
-bash
-Copy code
-python3 -m venv venv
-Activate the virtual environment:
-On macOS/Linux:
-bash
-Copy code
-source venv/bin/activate
-On Windows:
-bash
-Copy code
-venv\Scripts\activate
-Install Required Dependencies
-Install the necessary packages using pip:
-bash
-Copy code
-pip install -r requirements.txt
-```
-
 ## License
 
 ### Summary of Additions:
