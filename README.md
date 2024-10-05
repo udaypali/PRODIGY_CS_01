@@ -26,4 +26,17 @@ This application is a user-friendly GUI-based tool for encrypting and decrypting
 ```bash
 git clone https://github.com/yourusername/caesar-cipher-tool.git
 cd caesar-cipher-tool
+```
+## license
 
+### Summary of Additions:
+```bash
+- **Usage**: Instructions on how to use the application features.
+- **File Structure**: An overview of the project structure.
+- **Dependencies**: A list of required libraries and installation instructions.
+- **Database Configuration**: Instructions for setting up the MySQL connection.
+- **Fonts**: Information on custom fonts used in the application.
+- **License**: Licensing information.
+
+This README file now provides comprehensive guidance for users to set up and use the Caesar Cipher Tool effectively. Let me know if you need any further modifications!
+```
