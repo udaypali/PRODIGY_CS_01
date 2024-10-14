@@ -24,7 +24,7 @@ This application is a user-friendly GUI-based tool for encrypting and decrypting
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/caesar-cipher-tool.git
+git clone https://github.com/udaypali/PRODIGY_CS_01.git
 cd caesar-cipher-tool
 ```
 
